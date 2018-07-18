@@ -1,0 +1,43 @@
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\bin\Debug\ST.exe.config
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\bin\Debug\ST.exe
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\bin\Debug\ST.pdb
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.csprojResolveAssemblyReference.cache
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.Properties.Resources.resources
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.STMain.resources
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.csproj.GenerateResource.Cache
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.exe
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.pdb
+c:\users\cantt computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.Login.resources
+C:\Users\Cantt Computer\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.Products.resources
+C:\Users\Cantt Computer\Desktop\ST2\ST\bin\Debug\ST.exe.config
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.pdb
+C:\Users\Cantt Computer\Desktop\ST2\ST\bin\Debug\ST.exe
+C:\Users\Cantt Computer\Desktop\ST2\ST\bin\Debug\ST.pdb
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.csprojResolveAssemblyReference.cache
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.Login.resources
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.Products.resources
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.Properties.Resources.resources
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.STMain.resources
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.csproj.GenerateResource.Cache
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.exe
+C:\Users\Cantt Computer\Desktop\ST2\ST\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.reportcs.resources
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\RdlCompile.cache
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\RdlCompile.compiled
+C:\Users\Cantt Computer\Desktop\ST2\ST\obj\Debug\ST.update.resources
+E:\ST2\ST\bin\Debug\ST.exe.config
+E:\ST2\ST\obj\Debug\ST.exe
+E:\ST2\ST\obj\Debug\ST.pdb
+E:\ST2\ST\bin\Debug\ST.exe
+E:\ST2\ST\bin\Debug\ST.pdb
+E:\ST2\ST\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ST2\ST\obj\Debug\ST.csprojResolveAssemblyReference.cache
+E:\ST2\ST\obj\Debug\ST.Login.resources
+E:\ST2\ST\obj\Debug\ST.Products.resources
+E:\ST2\ST\obj\Debug\ST.Properties.Resources.resources
+E:\ST2\ST\obj\Debug\ST.reportcs.resources
+E:\ST2\ST\obj\Debug\ST.STMain.resources
+E:\ST2\ST\obj\Debug\ST.update.resources
+E:\ST2\ST\obj\Debug\ST.csproj.GenerateResource.Cache
+E:\ST2\ST\obj\Debug\RdlCompile.cache
+E:\ST2\ST\obj\Debug\RdlCompile.compiled
